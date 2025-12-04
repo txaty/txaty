@@ -2,8 +2,6 @@
     <img src="./assets/pi.png" alt="pi", width="250">
 </div>
 
-# Tommy TIAN
-
 My previous GitHub ID: tommytim0515
 
 <a href="https://dotfyle.com/txaty/dotfiles"><img src="https://dotfyle.com/txaty/dotfiles/badges/plugins?style=flat" /></a>
