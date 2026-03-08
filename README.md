@@ -1,8 +1,13 @@
-<div align="center">
-    <img src="./assets/pi.png" alt="pi", width="250">
-</div>
+```txt
+███████╗ █████╗ ███╗   ███╗
+██╔════╝██╔══██╗████╗ ████║   Sam
+███████╗███████║██╔████╔██║
+╚════██║██╔══██║██║╚██╔╝██║
+███████║██║  ██║██║ ╚═╝ ██║
+╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
 
-My previous GitHub ID: tommytim0515
+Building • Breaking • Optimizing • Shipping
+```
 
 <a href="https://dotfyle.com/txaty/nvim-config"><img src="https://dotfyle.com/txaty/nvim-config/badges/plugins?style=flat" /></a>
 [![Medium](https://img.shields.io/badge/Medium%20Blog-txaty-000000)](https://medium.com/@txaty)
